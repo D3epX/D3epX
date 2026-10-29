@@ -44,7 +44,7 @@ Built AI and backend components for SANAD, a multilingual Arabic NLP research pl
 
 ## Selected work
 
-### [Arabic NLP Research Platform — SANAD](https://github.com/itsbtb18/Plateforme_NLP)
+### Arabic NLP Research Platform — SANAD
 Contributed AI and backend systems to a multilingual research platform at the Algerian Academy of the Arabic Language. Work included conversational RAG, document processing, platform and web search, and automated collection of Arabic NLP resources from more than 198 sources.
 
 **Django · FastAPI · Qdrant · Elasticsearch · Celery**
