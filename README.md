@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Dahmane Yanes 👋</h1>
-<h3 align="center">AI Engineer · NLP & Agentic AI · Backend Engineering</h3>
+<h3 align="center">AI Engineer · Machine Learning · NLP & Backend Systems</h3>
 
 <p align="center">
   NLP systems, retrieval, and the engineering behind them.<br />
@@ -13,11 +13,29 @@
 
 ## About
 
-I'm an AI engineer and computer science graduate working on multilingual NLP, retrieval-augmented generation, and backend systems. My experience spans research platforms, local AI assistants, and multi-agent applications.
+I'm an AI engineer and computer science graduate with experience in machine learning, deep learning, multilingual NLP, and backend engineering. I build retrieval-augmented systems, AI agents, and document intelligence applications, from experimentation and evaluation through deployment.
 
 - Hybrid retrieval, reranking, and faithfulness verification for RAG.
 - Multilingual conversational AI, document processing, and agent orchestration.
+- Machine learning and deep learning with PyTorch, TensorFlow, and scikit-learn.
 - B.Sc. in Computer Science, Software and Information Systems Engineering — **USTHB**, 2023–2026.
+
+## Experience
+
+**AI Engineer Intern · Sonatrach Services Para-Pétroliers Holding**<br />
+*June–September 2026 · Algeria*
+
+Developed a self-hosted AI assistant for multilingual chat, document question answering, summarization, and internal knowledge retrieval. Built hybrid retrieval pipelines with BGE-M3, BM25, Qdrant, and reciprocal rank fusion, alongside FastAPI services and local models served with Ollama.
+
+**AI Engineer Intern · ZAD AI**<br />
+*July–October 2026 · Algeria*
+
+Developed search agents and multi-agent workflows using Agno. Contributed to ZAD Invest, a feasibility estimation system coordinating specialist agents for technical and financial analysis.
+
+**AI Engineer · Algerian Academy of the Arabic Language**<br />
+*October 2025–May 2026 · Algeria*
+
+Built AI and backend components for SANAD, a multilingual Arabic NLP research platform. Developed conversational RAG, web and platform search, document processing, and asynchronous pipelines for collecting and structuring research resources.
 
 ## Selected work
 
@@ -37,18 +55,12 @@ An educational document intelligence and RAG pipeline using **Docling**, **Lance
 ### [RAG Evaluation Platform](https://github.com/D3epX/RAG-EVAL)
 A human evaluation platform for multilingual RAG responses, with structured criteria for legal, NLP/AI, and web-fallback answers.
 
-### Code Rank · Private repository
+### [Code Rank](https://github.com/D3epX/code-Rank)
 A gamified practice tracker combining time tracking, GitHub activity, streaks, and a rank-based leaderboard. Built with Next.js, TypeScript, FastAPI, PostgreSQL, and Redis.
 
-### Local enterprise AI assistant · Private repository
-Developed a self-hosted assistant for multilingual chat, document question answering, and summarization at Sonatrach Services Para-Pétroliers Holding, using local models and hybrid retrieval.
+## Research
 
-## Research & experience
-
-- **First author:** “A Multilingual Agentic RAG Framework with Faithfulness Verification for Legal Advisory” — accepted for presentation at **QCAI 2026**.
-- **Sonatrach Services Para-Pétroliers Holding:** Developed a self-hosted AI assistant for document Q&A, multilingual chat, and internal knowledge retrieval.
-- **ZAD AI:** Built search agents and contributed to multi-agent orchestration and the ZAD Invest feasibility estimation system.
-- **Algerian Academy of the Arabic Language:** Built AI and backend systems for SANAD, a multilingual Arabic NLP research and collaboration platform.
+**First author:** “A Multilingual Agentic RAG Framework with Faithfulness Verification for Legal Advisory” — accepted for presentation at **QCAI 2026**. The work investigates hybrid retrieval, answer relevance, semantic similarity, and faithfulness in multilingual legal advisory.
 
 ## Toolbox
 
@@ -56,7 +68,7 @@ Developed a self-hosted assistant for multilingual chat, document question answe
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square) ![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black) ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
 
 **AI & data**<br />
-![RAG](https://img.shields.io/badge/RAG-6D28D9?style=flat-square) ![Agentic AI](https://img.shields.io/badge/Agentic%20AI-6D28D9?style=flat-square) ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white) ![Docling](https://img.shields.io/badge/Docling-0F62FE?style=flat-square) ![Ollama](https://img.shields.io/badge/Ollama-222222?style=flat-square&logo=ollama&logoColor=white)
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-6D28D9?style=flat-square) ![Deep Learning](https://img.shields.io/badge/Deep%20Learning-6D28D9?style=flat-square) ![RAG](https://img.shields.io/badge/RAG-6D28D9?style=flat-square) ![Agentic AI](https://img.shields.io/badge/Agentic%20AI-6D28D9?style=flat-square) ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white) ![Docling](https://img.shields.io/badge/Docling-0F62FE?style=flat-square) ![Ollama](https://img.shields.io/badge/Ollama-222222?style=flat-square&logo=ollama&logoColor=white)
 
 **Backend & infrastructure**<br />
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) ![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white) ![Qdrant](https://img.shields.io/badge/Qdrant-DC244C?style=flat-square) ![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=flat-square&logo=elasticsearch&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
