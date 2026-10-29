@@ -52,9 +52,6 @@ A multilingual legal question-answering assistant combining document retrieval, 
 ### [Knowledge Extraction Pipeline](https://github.com/D3epX/Knowladge-extraction-pipline-)
 An educational document intelligence and RAG pipeline using **Docling**, **LanceDB**, and **Streamlit** to parse, chunk, index, search, and chat with documents.
 
-### [RAG Evaluation Platform](https://github.com/D3epX/RAG-EVAL)
-A human evaluation platform for multilingual RAG responses, with structured criteria for legal, NLP/AI, and web-fallback answers.
-
 ### [CarRacing PPO](https://github.com/D3epX/max-verstappen)
 A deep reinforcement learning project training continuous-control racing agents on Gymnasium's CarRacing environment. Uses PPO with CNN-based visual encoders, PyTorch, and Stable-Baselines3.
 
