@@ -67,6 +67,14 @@ A gamified practice tracker combining time tracking, GitHub activity, streaks, a
 
 **First author:** “A Multilingual Agentic RAG Framework with Faithfulness Verification for Legal Advisory” — accepted for presentation at **QCAI 2026**. The work investigates hybrid retrieval, answer relevance, semantic similarity, and faithfulness in multilingual legal advisory.
 
+## AI & data science skills
+
+- **Machine learning & deep learning:** model development and evaluation, neural networks, computer vision, and reinforcement learning.
+- **NLP & generative AI:** multilingual NLP, LLM applications, agentic and multi-agent systems, translation, summarization, and document intelligence.
+- **Retrieval & search:** embeddings, semantic and lexical search, BM25, hybrid retrieval, reciprocal rank fusion, reranking, and RAG.
+- **Evaluation:** retrieval precision and recall, mean reciprocal rank, semantic similarity, and answer faithfulness.
+- **Tools:** PyTorch, TensorFlow, scikit-learn, Agno, Docling, Ollama, Qdrant, Elasticsearch, and LanceDB.
+
 ## Toolbox
 
 **Languages**<br />
