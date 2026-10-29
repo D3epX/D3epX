@@ -22,10 +22,15 @@ I'm an AI engineer and computer science graduate with experience in machine lear
 
 ## Experience
 
+**AI Engineer & Full-Stack Developer · CAFC**<br />
+*Current*
+
+Working across AI engineering and full-stack development.
+
 **AI Engineer Intern · Sonatrach Services Para-Pétroliers Holding**<br />
 *June–September 2026 · Algeria*
 
-Developed a self-hosted AI assistant for multilingual chat, document question answering, summarization, and internal knowledge retrieval. Built hybrid retrieval pipelines with BGE-M3, BM25, Qdrant, and reciprocal rank fusion, alongside FastAPI services and local models served with Ollama.
+Improved access to internal knowledge through multilingual information retrieval and document processing. Applied hybrid search, local language models, and backend engineering to support data privacy and deployment under network constraints.
 
 **AI Engineer Intern · ZAD AI**<br />
 *July–October 2026 · Algeria*
